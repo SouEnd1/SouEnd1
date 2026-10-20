@@ -57,6 +57,7 @@ Aplicação web que calcula o Índice de Massa Corporal a partir dos dados infor
 ## 📫 Onde me encontrar
 
 - GitHub: [@SouEnd1](https://github.com/SouEnd1)
+- Linkedin: [@Antonio Neto] (https://www.linkedin.com/in/antonio-neto-460672376/?isSelfProfile=true)
 
 ---
 
